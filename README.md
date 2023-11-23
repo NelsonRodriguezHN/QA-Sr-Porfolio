@@ -6,7 +6,7 @@
 
 ## Proyectos Destacados
 
-- [Proyecto1](Proyectos/Proyecto1/README.md)
+- Proyecto1
 - [Proyecto2](Proyectos/Proyecto2/README.md)
 
 ## Herramientas y Tecnologías
