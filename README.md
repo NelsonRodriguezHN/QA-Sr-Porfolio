@@ -3,27 +3,36 @@
 
 
 
+🚀 Technical Skills:
+Manual Testing Expertise: Functional, Regression, UAT, SIT, Web, and Mobile Testing.
+Automation Testing Expertise: Sanity, E2E
+Automation Skills: Playwright, Selenium
+Tools: Jira, DevOps, SOAP-UI, Postman; Proficient in SQL, Oracle, and NoSQL databases.
+Programming Languages: Proficient in PHP and JavaScript.
+Methodologies: Agile, SAFe standards.
 
-## Proyectos Destacados
+🌐 Work Highlights:
+Sumadi (Current): Leading QA efforts for real-time exam monitoring using A.I. Contributing to AWS-based releases, automating test cases, and ensuring top-notch quality in an Agile environment.
 
-- Proyecto1
-- [Proyecto2](Proyectos/Proyecto2/README.md)
+Banco Ficohsa (2017 - 2021): Played a pivotal role in financial product validations, defect tracking, and creating a robust test master plan.
 
-## Herramientas y Tecnologías
+🛠️ Featured Projects:
+Automation of Sanity Tests using Playwright
+Regional Electronic Banking
+SARA - Transactional Bot
+Electronic Banking Upgrade
+Online Banking Tax Payment
+SUMADI – Faculty Report
+SUMADI Mobile Application
 
-- [Herramienta1](Herramientas/herramienta1.md)
-- [Herramienta2](Herramientas/herramienta2.md)
+🎓 Certifications:
+Scrum Master
+SAFe Practitioner
+ISTQB Foundation Level
 
-## Certificaciones
+🌟 Social Skills:
+Proactive, empathetic, and adaptable. I thrive in collaborative environments and am passionate about ensuring top-notch software quality.
 
-- [Certificación1](Certificaciones/certificacion1.md)
-- [Certificación2](Certificaciones/certificacion2.md)
-
-## Experiencia Laboral
-
-- [Experiencia1](Experiencia/experiencia1.md)
-- [Experiencia2](Experiencia/experiencia2.md)
-
-## Contáctame
-
-Encuéntrame en [LinkedIn](tu-enlace-de-linkedin) | [Currículum Vitae](tu-enlace-de-cv)
+📬 Let's Connect:
+📧 Email: alexx07862@gmail.com
+🌐 LinkedIn: Nelson Alexander Rodríguez Escoto
