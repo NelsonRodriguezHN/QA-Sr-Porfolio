@@ -12,6 +12,7 @@ Programming Languages: Proficient in PHP and JavaScript.
 Methodologies: Agile, SAFe standards.
 
 🌐 Work Highlights:
+
 Sumadi (Current): Leading QA efforts for real-time exam monitoring using A.I. Contributing to AWS-based releases, automating test cases, and ensuring top-notch quality in an Agile environment.
 
 Banco Ficohsa (2017 - 2021): Played a pivotal role in financial product validations, defect tracking, and creating a robust test master plan.
